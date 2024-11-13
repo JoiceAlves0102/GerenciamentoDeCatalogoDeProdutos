@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|c:\\users\\joice\\documents\\estudos\\asp net\\apicatalog\\apicatalog\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|solutionrelative:apicatalog\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|c:\\users\\joice\\documents\\estudos\\asp net\\apicatalog\\apicatalog\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|solutionrelative:apicatalog\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|c:\\users\\joice\\documents\\estudos\\asp net\\apicatalog\\apicatalog\\validations\\primeiraletramaiusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|solutionrelative:apicatalog\\validations\\primeiraletramaiusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|c:\\users\\joice\\documents\\estudos\\asp net\\apicatalog\\apicatalog\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|solutionrelative:apicatalog\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|c:\\users\\joice\\documents\\estudos\\asp net\\apicatalog\\apicatalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|solutionrelative:apicatalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|c:\\users\\joice\\documents\\estudos\\asp net\\apicatalog\\apicatalog\\context\\apicatalogocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|solutionrelative:apicatalog\\context\\apicatalogocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|c:\\users\\joice\\documents\\estudos\\asp net\\apicatalog\\apicatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|solutionrelative:apicatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|c:\\users\\joice\\documents\\estudos\\asp net\\apicatalog\\apicatalog\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|solutionrelative:apicatalog\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|c:\\users\\joice\\documents\\estudos\\asp net\\apicatalog\\apicatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|solutionrelative:apicatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|c:\\users\\joice\\documents\\estudos\\asp net\\apicatalog\\apicatalog\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B529C8C-AD0F-4627-8D3B-65E6D580CA32}|ApiCatalog\\ApiCatalog.csproj|solutionrelative:apicatalog\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiCatalog\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\appsettings.Development.json",
+              "RelativeToolTip": "ApiCatalog\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T00:16:38.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiCatalog\\appsettings.json",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\appsettings.json",
+              "RelativeToolTip": "ApiCatalog\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T00:01:24.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ApiCatalog\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Models\\Produto.cs",
+              "RelativeToolTip": "ApiCatalog\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:36:08.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "ApiCatalog\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "ApiCatalog\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:21:28.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiCatalogoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Context\\ApiCatalogoContext.cs",
+              "RelativeDocumentMoniker": "ApiCatalog\\Context\\ApiCatalogoContext.cs",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Context\\ApiCatalogoContext.cs",
+              "RelativeToolTip": "ApiCatalog\\Context\\ApiCatalogoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:17:17.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrimeiraLetraMaiusculaAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Validations\\PrimeiraLetraMaiusculaAttribute.cs",
+              "RelativeDocumentMoniker": "ApiCatalog\\Validations\\PrimeiraLetraMaiusculaAttribute.cs",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Validations\\PrimeiraLetraMaiusculaAttribute.cs",
+              "RelativeToolTip": "ApiCatalog\\Validations\\PrimeiraLetraMaiusculaAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:26:01.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ApiCatalog\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ApiCatalog\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:24:18.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiCatalog\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiCatalog\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T00:17:25.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Program.cs",
+              "RelativeDocumentMoniker": "ApiCatalog\\Program.cs",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Program.cs",
+              "RelativeToolTip": "ApiCatalog\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:36:50.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ApiCatalog\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Joice\\Documents\\Estudos\\asp net\\ApiCatalog\\ApiCatalog\\Models\\Categoria.cs",
+              "RelativeToolTip": "ApiCatalog\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:21:25.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
